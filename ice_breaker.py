@@ -2,10 +2,13 @@ from langchain import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 
+from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 from third_parties.linkedin import scrape_linkedin_profile
 
 if __name__ == "__main__":
     print("Hey LangChain!")
+
+    linkedin_profile_url = linkedin_lookup_agent(name="LUIS Neto")
 
     summary_template = """
         given the LinkedIn information {information} about a person from I want you to create:
@@ -21,8 +24,6 @@ if __name__ == "__main__":
 
     chain = LLMChain(llm=llm, prompt=summary_prompt_template)
 
-    linkedin_data = scrape_linkedin_profile(
-        linkedin_profile_url="https://www.linkedin.com/in/luis-neto-16786b227/"
-    )
+    linkedin_data = scrape_linkedin_profile(linkedin_profile_url=linkedin_profile_url)
 
     print(chain.run(information=linkedin_data))
