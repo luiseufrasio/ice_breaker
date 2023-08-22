@@ -1,0 +1,86 @@
+{
+    "public_identifier": "harrison-chase-961287118",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/harrison-chase-961287118/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230821%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230821T111115Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=129115c6f3a221349e8c9ab07eec3c92a70d25857925a98fc7d27e3c1c380650",
+    "first_name": "Harrison",
+    "last_name": "Chase",
+    "full_name": "Harrison Chase",
+    "occupation": "Co-Founder and CEO at LangChain",
+    "headline": "Co-Founder and CEO at LangChain",
+    "summary": "{sports, machine learning, software engineering, statistics}",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "San Francisco",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {"day": 1, "month": 1, "year": 2023},
+            "ends_at": null,
+            "company": "LangChain",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/langchain/",
+            "title": "Co-Founder and CEO",
+            "description": null,
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/langchain/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230821%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230821T111115Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=beeed6c58a95e28cf5b520f2cec8ba40f28e8a2db17950cda9923b5737a12ee0"
+        },
+        {
+            "starts_at": {"day": 1, "month": 10, "year": 2019},
+            "ends_at": {"day": 1, "month": 1, "year": 2023},
+            "company": "Robust Intelligence",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/robust-intelligence/",
+            "title": "Machine Learning Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/robust-intelligence/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230821%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230821T111115Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=7781bc1f0d818fc982d3dac917a4a8a4aae16a8195b52b5467affddb6858545c"
+        },
+        {
+            "starts_at": {"day": 1, "month": 7, "year": 2017},
+            "ends_at": {"day": 1, "month": 10, "year": 2019},
+            "company": "Kensho Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kensho-technologies/",
+            "title": "Machine Learning Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/kensho-technologies/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230821%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230821T111115Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a8ac578fd0c7d202c1789e63163a058ec9b6301f7588624f92b13cad74de1854"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {"day": 1, "month": 1, "year": 2013},
+            "ends_at": {"day": 1, "month": 1, "year": 2017},
+            "field_of_study": null,
+            "degree_name": null,
+            "school": "Harvard University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_400_400/0/1519855919126?e=1698883200&v=beta&t=WYNGsq5B_faaoFA0QOEsb-sMeuGUdlGgAvNStk5RhU0",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Harrison Chase",
+            "link": "https://www.linkedin.com/in/harrison-chase-240a44190",
+            "summary": "EMT-B serving in Charlotte, NC and Landrum, SC. B.S. Candidate in Biology at Wofford College.",
+            "location": "Spartanburg, SC"
+        },
+        {
+            "name": "Harrison Chase",
+            "link": "https://www.linkedin.com/in/harrisonchasesports",
+            "summary": "Intern with the Sports Department at 7News•Former Intern on 98.5 The Sports Hub for the Felger and Mazz Show•Radio Show Monday's 5:00-6:00•Looking to be a professional sports broadcaster.",
+            "location": "Greater Boston"
+        },
+        {
+            "name": "Harrison Chase",
+            "link": "https://www.linkedin.com/in/harrison-chase",
+            "summary": "Director of Sales, Mid-Enterprise",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "name": "Harrison Chase",
+            "link": "https://www.linkedin.com/in/harrison-chase-123966107",
+            "summary": "QA Engineer at Pro Platforms, Inc.",
+            "location": "Los Angeles, CA"
+        }
+    ]
+}

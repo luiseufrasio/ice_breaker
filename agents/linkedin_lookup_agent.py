@@ -24,7 +24,7 @@ def lookup(name: str) -> str:
         verbose=True,
     )
     prompt_template = PromptTemplate(
-        template=template, input_variables=['name_of_person']
+        template=template, input_variables=["name_of_person"]
     )
 
     linkedin_profile_url = agent.run(prompt_template.format_prompt(name_of_person=name))
